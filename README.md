@@ -1,6 +1,6 @@
 # Mongoose CRUD
 
-In this project you will find 6 files that I want you to complete
+In this project you will need to create 6 files:
 
 - `user.js` - this one defines a User schema and model
     - Users will contain the following field
